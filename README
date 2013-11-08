@@ -1,15 +1,20 @@
 Minetest mod by Gabriele
+---------------
 
-== Craft ==
-=Glass ball=
+Craft
+---------------
+Glass ball
+---------------
 -	Glass	-
 Glass	-	Glass
 -       Glass   -
-=Star=
+Star
+---------------
 -		gold_ingot	-
 gold_ingot	dye:red		gold_ingot
 gold_ingot	stone		gold_ingot
-=Add color to ball=
+Add color to ball
+---------------
 -	dye	-
 dye	ball	dye
 -	dye	-
